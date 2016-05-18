@@ -1,0 +1,35 @@
+td i{margin:0 0 -5px 0;cursor: pointer;}
+td input[type="text"]{width:150px;height:18px;}
+tr.class_2 td input.class_2input[type="text"]{width:130px;height:18px;}
+.classIcon{width:20px;height:19px;display: inline-block;
+background: url(../img/class/class.png) no-repeat;}
+tr.class_2 td i{margin:-5px 0 0 0;}
+tr.class_2 td .classIcon{width:20px;height:20px;display: inline-block;
+background: url(../img/class/xx.png) no-repeat;margin-left:19px;}
+.class_img{cursor: pointer;}
+.move span{margin:0 6px;}
+.uptop i{width:14px;height:20px;display:inline-block;
+background: url(../img/class/uptop.png) no-repeat;overflow: hidden;}
+.up i{width:14px;height:20px;display:inline-block;
+background: url(../img/class/up.png) 0 1px no-repeat;overflow: hidden;}
+.down i{width:14px;height:20px;display:inline-block;
+background:url(../img/class/down.png) 0 1px no-repeat;overflow: hidden;}
+.downbottom i{width:14px;height:20px;display:inline-block;
+background:url(../img/class/downbottom.png) no-repeat;overflow: hidden;}
+.move span i:hover{background-position:0 -22px;}
+.class_2 .move .uptop{display: none;}
+.class_2 .move .downbottom{display: none;}
+.class_img i{width:20px;height:20px;display:inline-block;
+background:url(../img/class/plus.png) no-repeat;}
+/*开关按钮*/
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+body{position: relative;}
+#j_img{position: absolute;left:0;top: 0;border: 0;}
+#j_loginDiv{width:280px;position: absolute;}
+#j_loginDiv .input{border:0;width:253px;height:45px;}
+.form-group{
+	margin: 0 auto;
+}
+div.login{
+	width: 393px; height: 440px; margin: 120px auto 0;
+}
+.login img{
+	width: 363px; margin: 10px auto 30px;  margin-left: 15px;
+}
+.login .from-group .input{width: 351px; float: left; height: 60px;  background: none; text-indent: 10px; font-size: 20px; line-height: 60px; border: none; color: #fff}
+.loginbody{
+	margin: 0; padding: 0; background: url(../../image/login/01Login.png) no-repeat top center;
+}
+.login .from-group{
+	width: 393px; height: 61px; 
+}
+.login .form-bg{
+	background: url(../../image/login/input.png) no-repeat;
+}
+.login .from-group span.icon{
+	display: block; width: 32px; height: 31px; float: left; margin-top: 14px; margin-left: 10px;
+}
+.login .from-group span.user{
+	background: url(../../image/login/user.png) no-repeat;
+}
+.login .from-group span.password{
+	background: url(../../image/login/password.png) no-repeat;
+}
+.login .from-group input.inputv{background: url(../../image/login/code.png) no-repeat;
+width:235px;height:60px;border:0; float: left; text-transform :Uppercase; color: #fff; font-size: 20px}
+.v-img{float:right;border:0;margin-left:5px;border-radius:5px;background:#FFF; text-indent: 10px;
+cursor: pointer; width: 120px; margin: 0;}
+.login .from-group button{width:393px;height:60px;line-height:45px;color:#FFF;font-size:16px;
+background: url(../../image/login/btn.png) no-repeat;border:0;font-weight: bold;text-align: center;}
+.login .from-group button:active{background: #fff;border-radius: 5px;color:#3DB777;}
+.from-top{margin:10px 0 1px 0;}
